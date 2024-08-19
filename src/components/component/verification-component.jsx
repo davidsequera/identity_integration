@@ -32,7 +32,7 @@ export default function VerificationComponent({setVerification}) {
                         <SelectValue placeholder="Select document type" />
                       </SelectTrigger>
                       <SelectContent>
-                        <SelectItem value="drivers-license">Driver's License</SelectItem>
+                        <SelectItem value="drivers-license">Drivers License</SelectItem>
                         <SelectItem value="passport">Passport</SelectItem>
                         <SelectItem value="national-id">National ID</SelectItem>
                       </SelectContent>
