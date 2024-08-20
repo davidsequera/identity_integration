@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500"><!-- Background Circle --><circle cx="250" cy="250" r="250" fill="#333"></circle>
+<!-- Outer Circle --><circle cx="250" cy="250" r="200" fill="#4CAF50"></circle>
+<!-- Triangles --><polygon points="250,50 150,250 250,250" fill="#2196F3"></polygon><polygon points="250,50 350,250 250,250" fill="#FFC107"></polygon><polygon points="250,450 150,250 250,250" fill="#FF5722"></polygon><polygon points="250,450 350,250 250,250" fill="#9C27B0"></polygon>
+<!-- Inner Circle --><circle cx="250" cy="250" r="100" fill="#FFEB3B"></circle>
+</svg>
