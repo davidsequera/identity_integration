@@ -9,8 +9,7 @@ export default function Home() {
 
   return (
     <main>
-      {verification?  <VerificationComponent setVerification={setVerification}/> : <SuccessComponent setVerification={setVerification}/>}
-      
+      {verification?  <VerificationComponent setVerification={setVerification}/> : <SuccessComponent setVerification={setVerification}/>}   
     </main>
       );
 }
